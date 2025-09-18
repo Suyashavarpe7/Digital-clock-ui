@@ -24,7 +24,7 @@ A sleek, creative digital clock user‑interface built with [your framework/libr
 - Smooth transitions / blinking colons  
 - 🌓 Dark mode / light mode  
 - Optional custom fonts & colors  
-- Responsive design — works on mobile, tablet, desktop  
+- Responsive design — works on mobile, tablet, desktop. 
 
 ---
 
