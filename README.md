@@ -49,7 +49,7 @@ A sleek, creative digital clock user‑interface built with [your framework/libr
 
 ---
 
-## 🚀 Installation
+## 🚀 _Installation_
 
 1. **Clone the repository**  
    ```bash
