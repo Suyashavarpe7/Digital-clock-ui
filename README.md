@@ -1,6 +1,6 @@
 # ⏰ _Digital Clock UI_
 
-A sleek, creative digital clock user‑interface built with [] — displays time beautifully, updates in real time, with optional styles and animations.
+A sleek, creative digital clock user‑interface built with [    ] — displays time beautifully, updates in real time, with optional styles and animations.
 
 ---
 
@@ -34,7 +34,7 @@ A sleek, creative digital clock user‑interface built with [] — displays time
 
 ![Digital Clock UI preview](path/to/your/screenshot.png)
 
-> Try it live: [Your Demo Link](#)  
+> Try it live: [   ](#)  
 
 ---
 
