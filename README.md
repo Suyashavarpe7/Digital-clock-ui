@@ -51,7 +51,8 @@ A sleek, creative digital clock user‑interface built with [    ] — displays 
 
 ## 🚀 _Installation_
 
-1. **Clone the repository**  
+1. **Clone the repository**
+
    ```bash
    git clone https://github.com/yourusername/digital‑clock‑ui.git
    cd digital‑clock‑ui
