@@ -30,7 +30,7 @@ A sleek, creative digital clock user‑interface built with [    ] — displays 
 
 ## 🖼️ Screenshot / Demo
 
-<!-- Replace below with actual screenshot or GIF -->
+<!--  -->
 
 ![Digital Clock UI preview](path/to/your/screenshot.png)
 
