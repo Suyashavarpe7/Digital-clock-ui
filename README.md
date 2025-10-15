@@ -49,7 +49,7 @@ A sleek, creative digital clock user‑interface built with [   ] — displays t
 
 ---
 
-## 🚀 _Installation_
+## 🚀 __Installation__
 
 1. **Clone the repository**
 
