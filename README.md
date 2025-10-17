@@ -1,4 +1,4 @@
-__# ⏰ Digital Clock UI__
+# ⏰ Digital Clock UI
 
 A sleek, creative digital clock user‑interface built with [   ] — displays time beautifully, updates in real time, with optional styles and animations.
 
