@@ -8,7 +8,7 @@ A sleek, creative digital clock user‑interface built with [  ] — displays ti
 - [🎯 Features](#-features)  
 - [🖼️ Screenshot / Demo](#️-screenshot--demo)  
 - [⚙️ Tech Stack](#️-tech‑stack)  
-- [🚀 Installation](#-installation)  
+- [🚀 Installation](#-installation) 
 - [🚧 Usage](#-usage)  
 - [🎨 Customization](#-customization)  
 - [📅 Upcoming Features](#-upcoming‑features)  
