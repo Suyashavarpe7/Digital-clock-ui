@@ -34,8 +34,6 @@ A creative digital clock user‑interface built with [  ] — displays time beau
 
 ![Digital Clock UI preview](path/to/your/screenshot.png)
 
-> Try it live: [    ](#)  
-
 ---
 
 ## ⚙️ Tech Stack
