@@ -33,7 +33,7 @@ A creative digital clock user‑interface built with [  ] — displays time beau
 | Component        | Technology / Tool        |
 |------------------|--------------------------|
 | UI / View        | HTML, CSS, JavaScript    |
-| Animation / Style| CSS animations / transitions, (optional) JS for more control |
+| Animation / Style| CSS animations / transitions, JS for more control |
 | Build Tool / Bundler | (optional) Webpack / Vite / Parcel |
 | Fonts / Icons    | Google Fonts, Font Awesome etc. |
 
