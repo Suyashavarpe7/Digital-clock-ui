@@ -28,14 +28,6 @@ A creative digital clock user‑interface built with [  ] — displays time beau
 
 ---
 
-## 🖼️ Screenshot / Demo
-
-<!--   -->
-
-![Digital Clock UI preview](path/to/your/screenshot.png)
-
----
-
 ## ⚙️ Tech Stack
 
 | Component        | Technology / Tool        |
