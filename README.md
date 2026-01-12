@@ -4,7 +4,7 @@ A creative digital clock user‑interface built with displays ,time beautifully 
 
 ---
 
-## 📌 Table of Contents
+## 📌_ Table of Contents_
 
 - [🎯 Features](#-features)  
 - [🖼️ Screenshot / Demo](#️-screenshot--demo)  
