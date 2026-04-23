@@ -19,7 +19,7 @@ A creative digital clock user‑interface built with displays, the time beautifu
 ## 🎯 Features
 
 - Real‑time digital clock (HH:MM:SS)  
-- 12‑hour / 24‑hour format toggle  
+- 12‑hour / 24‑hour format, toggle  
 - Smooth transitions / blinking colons  
 - 🌓 Dark mode / light mode  
 - Optional custom fonts & colors  
